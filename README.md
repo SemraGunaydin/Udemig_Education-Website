@@ -13,25 +13,25 @@ This project replicates the layout and key features of an educational platform, 
 
 #  🌟 Key Features
 
-*🎨 Sass Integration:
+-🎨 Sass Integration:
 
-- Utilizes Sass for cleaner, modular, and reusable stylesheets.
-- Improves maintainability and scalability of the codebase.
+  - Utilizes Sass for cleaner, modular, and reusable stylesheets.
+  - Improves maintainability and scalability of the codebase.
 
-* 📱 Responsive Design:
+-📱 Responsive Design:
 
-- Ensures seamless functionality and appearance across all screen sizes, including mobile, tablet, and desktop.
+  - Ensures seamless functionality and appearance across all screen sizes, including mobile, tablet, and desktop.
 
-* ⭐ Font Awesome Integration:
+-  ⭐ Font Awesome Integration:
 
-- Incorporates Font Awesome icons for intuitive and stylish visual elements.
+  - Incorporates Font Awesome icons for intuitive and stylish visual elements.
 
-* 🧩 Professional Layout:
+- 🧩 Professional Layout:
 
-* Structured sections optimized for educational platforms, such as:
-- Course listings.
-- Informative content blocks.
-- Responsive navigation.
+- Structured sections optimized for educational platforms, such as:
+  - Course listings.
+  - Informative content blocks.
+  - Responsive navigation.
 
 # 🛠️ Technologies Used
 
@@ -50,7 +50,7 @@ Contributions are always welcome! If you have ideas to improve the project or fi
 Open an issue.
 Submit a pull request.
 
-#🌟 Acknowledgments
+# 🌟 Acknowledgments
 This project is built for educational purposes to demonstrate the power of Sass and modern web design techniques. 
 It is inspired by educational platforms and serves as a great learning resource for developers looking to level up their front-end skills.
 
