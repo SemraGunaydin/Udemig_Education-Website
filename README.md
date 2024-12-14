@@ -17,11 +17,11 @@ This project replicates the layout and key features of an educational platform, 
   - Utilizes Sass for cleaner, modular, and reusable stylesheets.
   - Improves maintainability and scalability of the codebase.
 
--📱 Responsive Design:
- - Ensures seamless functionality and appearance across all screen sizes, including mobile, tablet, and desktop.
+- 📱 Responsive Design:
+   - Ensures seamless functionality and appearance across all screen sizes, including mobile, tablet, and desktop.
 
--⭐ Font Awesome Integration:
-    - Incorporates Font Awesome icons for intuitive and stylish visual elements.
+- ⭐ Font Awesome Integration:
+      - Incorporates Font Awesome icons for intuitive and stylish visual elements.
 
 - 🧩 Professional Layout:
 
