@@ -51,6 +51,10 @@ Submit a pull request.
 This project is built for educational purposes to demonstrate the power of Sass and modern web design techniques. 
 It is inspired by educational platforms and serves as a great learning resource for developers looking to level up their front-end skills.
 
+ # 📧 Contact
+
+gunaydinsemra34@gmail.com
+
 
 
 
