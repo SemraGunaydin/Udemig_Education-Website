@@ -53,7 +53,7 @@ It is inspired by educational platforms and serves as a great learning resource 
 
  # 📧 Contact
 
-gunaydinsemra34@gmail.com
+semra.gunaydinwork@outlook.com
 
 
 
